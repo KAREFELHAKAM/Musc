@@ -10,7 +10,7 @@ import config
 )
 async def maker(client: Client, message: Message):
     await message.reply_photo(
-        photo="https://te.legra.ph/file/7994175c9bbea45fc7377.jpg",
+        photo="https://te.legra.ph/file/610599a976ae27316bfd4.jpg",
         caption="• Dev Bot ↦ ميوزك الحاكم كارف \n ━━━━━━━━━━━━ \n • Dev ↦ Cr SoUrce:karef . \n • Bio ↦- 𓏺 Whoever humbles #himself to god will be #exalted 𓏺",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -21,7 +21,7 @@ async def maker(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url=f"https://t.me/SW_MV"
+                        "Updates", url=f"https://t.me/SW_MS"
                     ),
                 ],
             ]

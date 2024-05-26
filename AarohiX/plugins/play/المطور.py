@@ -21,7 +21,7 @@ async def maker(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url=f"https://t.me/vzo_a"
+                        "Updates", url=f"https://t.me/SW_MV"
                     ),
                 ],
             ]
